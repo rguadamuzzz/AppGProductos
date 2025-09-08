@@ -16,14 +16,14 @@ Aplicación web de gestión de productos
 - BCrypt.Net-Next
 
 *Aplicar migraciones y crear la base de datos*
-- cd backend\WebApi\WebApi
+- cd Backend\WebApi\WebApi
 - dotnet ef database update   # crea la BD con migraciones
 - dotnet run
 - 
   
 6. Configurar y ejecutar Frontend
    
-- cd frontend\app-gestion
+- cd Frontend\app-gestion
 
 - npm install   # o pnpm install
 - npm install react-hook-form @hookform/resolvers zod
