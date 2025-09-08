@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\services\\productoreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\productoreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|c:\\users\\probook\\music\\appgestion\\backend\\webapi\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2333B4FD-6AE1-4004-A2BB-9355AFC3CBE5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoReport.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Services\\ProductoReport.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\ProductoReport.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Services\\ProductoReport.cs",
+              "RelativeToolTip": "WebApi\\Services\\ProductoReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T07:19:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "WebApi\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:19:12.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T05:07:02.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T04:53:40.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:35:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T23:22:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Models\\User.cs",
+              "RelativeToolTip": "WebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:30:41.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\DataBase\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\DataBase\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\DataBase\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApi\\DataBase\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:04:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\Models\\Productos.cs",
+              "RelativeToolTip": "WebApi\\Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:46:06.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\probook\\Music\\APPGestion\\Backend\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T05:27:28.306Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
