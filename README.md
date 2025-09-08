@@ -3,6 +3,7 @@ Aplicación web de gestión de productos
    
 3. Levantar base de datos con Docker
    
+- cd Backend
 - docker compose up -d
    
 4. Configurar y ejecutar Backend
